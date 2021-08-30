@@ -2,7 +2,7 @@
 
 ## Olá! Eu sou a Emmanuel Aprígio   =]
 
-*keep in forward*
+*Keep moving forward*
 
  <div>
   <a href="https://github.com/emmano2997">
