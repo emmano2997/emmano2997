@@ -1,6 +1,7 @@
 
 
-## Hi! I am Emmanuel Aprígio   =]
+## Hi! I am Emmanuel Aprígio  =]
+Graduating in Computer Engineering at UFPB, Game Technical Course - ETE Cícero Dias Nave Recife I use programming tools like Unity and C# for my digital and participation projects, at the moment I'm interested in web development. In addition to developing with technology, I have a balanced, specialist and stable professional profile, found in the Self-knowledge Program for Professional Choice, master's by Adriana Cavalcanti Administrator Specialist in HR and Career Management based on Positive Psychology
 
 *Keep moving forward*
  
