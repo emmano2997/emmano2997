@@ -1,6 +1,6 @@
 
 
-## Olá! Eu sou a Emmanuel Aprígio   =]
+## Hi! I am Emmanuel Aprígio   =]
 
 *Keep moving forward*
 
@@ -23,5 +23,5 @@
  
  ##
  # Meu portifólio: 
- <a href="https://emmano2997.github.io/"><"<img src="https://img.icons8.com/cotton/64/000000/website.png"/>"> </a>
+ <a href="https://emmano2997.github.io/"><"<img src="https://img.icons8.com/cotton/64/000000/website.png"> </a>
  
