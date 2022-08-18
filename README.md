@@ -3,7 +3,6 @@
 ## Hi! I am Emmanuel Aprígio   =]
 
 *Keep moving forward*
-
  
 <div> 
   <a href="https://www.linkedin.com/in/emmanuel-apr%C3%ADgio-cavalcanti-dos-santos-52a8871b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -22,6 +21,8 @@
  </div>
  
  ##
- # Meu portifólio: 
- <a href="https://emmano2997.github.io/"><"<img src="https://img.icons8.com/cotton/64/000000/website.png"> </a>
+ # My portfolio: 
+ <a href="https://emmano2997.github.io/"> 
+   <img src="https://img.icons8.com/cotton/64/000000/website.png"
+ </a
  
