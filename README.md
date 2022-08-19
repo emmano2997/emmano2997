@@ -5,6 +5,7 @@
   Graduating in Computer Engineering - UFPB
   Game Technical Course - ETE Cícero Dias Nave Recife 
   At the moment I'm interested in web development and machine learning 
+  <br></br>
 <div>
 *Keep moving forward*
  
