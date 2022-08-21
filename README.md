@@ -3,12 +3,11 @@
 
 - 📖 &nbsp; Undergraduate **Computer Engineering** student at <a href="https://www.ufpb.br/">Universidade Federal da Paraíba</a>.
 
-- 🎓 &nbsp; Graduate in Game Programming- ETE Cícero Dias Nave Recife <a href="[https://oifuturo.org.br/programas/nave/](https://oifuturo.org.br/programas/nave/)">Nave</a>.
+- 🎓 &nbsp; Graduate in Game Programming- ETE Cícero Dias Nave Recife <a href="https://oifuturo.org.br/programas/nave/">Nave</a>.
 
 - 🌱 &nbsp; Studying more about web development and machine learning.
 
   
-
 <h3> &nbsp;Skills and Tools</h3>
 
 <div style="display: inline_block">
