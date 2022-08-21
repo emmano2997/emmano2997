@@ -3,7 +3,7 @@
 
 - 📖 &nbsp; Undergraduate **Computer Engineering** student at <a href="https://www.ufpb.br/">Universidade Federal da Paraíba</a>.
 
-- 🎓 &nbsp; Technical Course in Game Programming at Escola Técnica Estadual Cícero Dias - NAVE Recife<a href="https://oifuturo.org.br/programas/nave/">Nave</a>.
+- 🎓 &nbsp; Technical Course in Game Programming at Escola Técnica Estadual Cícero Dias - NAVE Recife <a href="https://oifuturo.org.br/programas/nave/">Nave</a>.
 
 - 🌱 &nbsp; Studying more about web development and machine learning.
 
